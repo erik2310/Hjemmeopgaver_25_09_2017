@@ -6,14 +6,14 @@ public class Opgave_2_1 {
         //Laver en scanner
         Scanner input = new Scanner(System.in);
 
-        //Spørger om miles og gemmer dem i typedmiles
+        //Spørger om miles og gemmer dem i typedMiles
         System.out.print("Enter miles: ");
-        double typedmiles = input.nextDouble();
+        double typedMiles = input.nextDouble();
 
         //Regner det om til kilometer
-        double result = typedmiles * 1.6;
+        double result = typedMiles * 1.6;
 
         //Printer resultatet ud
-        System.out.println(typedmiles + " miles is " + result + " kilometres");
+        System.out.println(typedMiles + " miles is " + result + " kilometres");
     }
 }

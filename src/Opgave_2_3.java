@@ -8,13 +8,13 @@ public class Opgave_2_3 {
 
         //Spørger om meter
         System.out.print("Enter a value for meter: ");
-        double typedmeter = input.nextDouble();
+        double typedMeter = input.nextDouble();
 
         //Udregner det til feet
-        double result = typedmeter * 3.2786;
+        double result = typedMeter * 3.2786;
 
         //Printer resultatet ud
-        System.out.println(typedmeter + " meters is " + result + " feet" );
+        System.out.println(typedMeter + " meters is " + result + " feet" );
 
     }
 

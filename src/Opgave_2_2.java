@@ -8,11 +8,11 @@ public class Opgave_2_2 {
 
         //Spørger om side længder og gemmer dem i variablen
         System.out.print("Enter length of the sides and height of the Equilateral triangle: ");
-        double lenghtofsides = input.nextDouble();
+        double lenghtOfSides = input.nextDouble();
 
         //Udregner area og volume
-        double area = Math.sqrt(3) / 4 * lenghtofsides * lenghtofsides;
-        double volume = area * lenghtofsides;
+        double area = Math.sqrt(3) / 4 * lenghtOfSides * lenghtOfSides;
+        double volume = area * lenghtOfSides;
 
         //Printer ud hvad area og volume er
         System.out.println("The area is " + area);

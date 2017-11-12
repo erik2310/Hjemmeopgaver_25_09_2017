@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Lavet af Erik Ruhmanis
+
 public class Opgave_2_15 {
 
     public static void main(String[] args) {

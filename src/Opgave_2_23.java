@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class Opgave_2_23 {
 
+    // Lavet af Erik Ruhmanis
+
     public static void main(String[] args) {
         //Laver en scanner
         Scanner input = new Scanner(System.in);

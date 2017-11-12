@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Lavet af Erik Ruhmanis
+
 public class Opgave_2_3 {
 
     public static void main(String[] args) {
@@ -14,7 +16,7 @@ public class Opgave_2_3 {
         double result = typedMeter * 3.2786;
 
         //Printer resultatet ud
-        System.out.println(typedMeter + " meters is " + result + " feet" );
+        System.out.println(typedMeter + " meters is " + result + " feet");
 
     }
 
